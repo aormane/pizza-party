@@ -1,0 +1,1 @@
+TODO: accept payments from Stripe and show amount collected & left
